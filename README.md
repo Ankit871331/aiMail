@@ -1,12 +1,12 @@
 # 📧 Email AI Suite – AI Email Generator
 
-🔗 **Live Demo:** (Add your link here)
+🔗 **Live Demo:** comming soon...
 
 ---
 
 ## 🚀 Overview
 
-**Email AI Suite** is a real-world productivity tool that transforms simple prompts into **professional, well-structured emails using AI**.
+**AI Email** is a real-world productivity tool that transforms simple prompts into **professional, well-structured emails using AI**.
 
 Writing emails can be time-consuming—especially when you need the right tone, clarity, and professionalism. This project simplifies that process by generating ready-to-send emails instantly.
 
@@ -20,31 +20,38 @@ Writing emails can be time-consuming—especially when you need the right tone, 
 
 1. Copy the email you want to reply to  
 2. Paste it into the web app and select tone  
+
 ![alt text](putQuery.png)
 
 
 3. Get your AI-generated reply instantly  
 
-![Generated Reply](getAns.png)
+![alt text](getAns.png)
 
 ---
 
 ### 🔌 Chrome Extension
 
-1. Add the extension to your browser  
+1. Add the extension to your browser 
+
+![alt text](extentionQuery.png)
+
 2. Click the **Reply** button → Select **AI Generate**
 
-![Extension Query](extentionQuery.png)
+![alt text](extentionAns.png)
 
-![Extension Answer](extentionAns.png)
 
 ---
 
 ## 🎥 Demo
 
-![Web Demo](webEmailGIF.gif)
+This is web Version
 
-![Extension Demo](extentionEmailGIF.gif)
+![alt text](webEmailGIF.gif)
+
+This is Extention version
+
+![alt text](extentionEmailGIF.gif)
 
 ---
 
@@ -59,7 +66,7 @@ Writing emails can be time-consuming—especially when you need the right tone, 
 
 ## 💡 Solution
 
-**Email AI Suite solves this by:**
+** AI Email solves this by:**
 
 - ✍️ Generating emails from simple prompts  
 - 🧠 Understanding tone and context using AI  
@@ -139,7 +146,7 @@ Writing emails can be time-consuming—especially when you need the right tone, 
 ## 👨‍💻 Author
 
 **Ankit**  
-💻 Full Stack Developer | Java • React • AI  
+💻 Full Stack Developer | Java • Spring Boot • SQL • React • AI  
 
 ---
 
