@@ -14,7 +14,7 @@ Writing emails can be time-consuming—especially when you need the right tone, 
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How Its Work
 
 ### 🌐 Web Version
 
