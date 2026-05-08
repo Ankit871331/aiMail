@@ -1,4 +1,4 @@
-# 📧 Email AI Suite – AI Email Generator
+# 📧 AI Email  – Email Generator
 
 🔗 **Live Demo:** comming soon...
 
